@@ -1,0 +1,16 @@
+{
+    "name": "aizaz/greetr",
+    "description": "greeter",
+    "autoload": {
+        "psr-4": {
+            "Aizaz\\Greetr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aizaz aziz",
+            "email": "aizaz.azzi@yahoo.com"
+        }
+    ],
+    "require": {}
+}
